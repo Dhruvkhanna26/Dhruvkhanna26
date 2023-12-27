@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dhruvkhanna26
 - 👀 I’m interested in coding,app development.
-- 🌱 I’m currently learning c++,haskell
 - 💞️ I’m looking to collaborate on app ideas and software sector
 - 📫 reach me on my email 
 
